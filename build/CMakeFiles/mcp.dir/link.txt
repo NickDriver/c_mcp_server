@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmcp.a CMakeFiles/mcp.dir/src/mcp_server.c.o CMakeFiles/mcp.dir/src/mcp_jsonrpc.c.o CMakeFiles/mcp.dir/src/mcp_stdio.c.o CMakeFiles/mcp.dir/src/mcp_http.c.o CMakeFiles/mcp.dir/src/mcp_log.c.o
+/usr/bin/ranlib libmcp.a

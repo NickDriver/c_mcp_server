@@ -1,0 +1,8 @@
+CompileFlags:
+  CompilationDatabase: build
+  Add:
+    - -I../include
+    - -Iinclude
+    - -I../third_party/cJSON
+    - -Ithird_party/cJSON
+    - -std=c23

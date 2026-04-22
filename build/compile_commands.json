@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/home/nickchel/webdev/c_mcp_server/build",
+  "command": "/usr/bin/clang  -I/home/nickchel/webdev/c_mcp_server/third_party/cJSON -g -std=c23 -fPIC -w -o CMakeFiles/cjson.dir/third_party/cJSON/cJSON.c.o -c /home/nickchel/webdev/c_mcp_server/third_party/cJSON/cJSON.c",
+  "file": "/home/nickchel/webdev/c_mcp_server/third_party/cJSON/cJSON.c",
+  "output": "CMakeFiles/cjson.dir/third_party/cJSON/cJSON.c.o"
+},
+{
+  "directory": "/home/nickchel/webdev/c_mcp_server/build",
+  "command": "/usr/bin/clang  -I/home/nickchel/webdev/c_mcp_server/include -I/home/nickchel/webdev/c_mcp_server/src -I/home/nickchel/webdev/c_mcp_server/third_party/cJSON -g -std=c23 -fPIC -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -Wstrict-prototypes -Wmissing-prototypes -Wimplicit-fallthrough -Wformat=2 -Wnull-dereference -Wdouble-promotion -Werror -fstack-protector-strong -D_FORTIFY_SOURCE=2 -o CMakeFiles/mcp.dir/src/mcp_server.c.o -c /home/nickchel/webdev/c_mcp_server/src/mcp_server.c",
+  "file": "/home/nickchel/webdev/c_mcp_server/src/mcp_server.c",
+  "output": "CMakeFiles/mcp.dir/src/mcp_server.c.o"
+},
+{
+  "directory": "/home/nickchel/webdev/c_mcp_server/build",
+  "command": "/usr/bin/clang  -I/home/nickchel/webdev/c_mcp_server/include -I/home/nickchel/webdev/c_mcp_server/src -I/home/nickchel/webdev/c_mcp_server/third_party/cJSON -g -std=c23 -fPIC -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -Wstrict-prototypes -Wmissing-prototypes -Wimplicit-fallthrough -Wformat=2 -Wnull-dereference -Wdouble-promotion -Werror -fstack-protector-strong -D_FORTIFY_SOURCE=2 -o CMakeFiles/mcp.dir/src/mcp_jsonrpc.c.o -c /home/nickchel/webdev/c_mcp_server/src/mcp_jsonrpc.c",
+  "file": "/home/nickchel/webdev/c_mcp_server/src/mcp_jsonrpc.c",
+  "output": "CMakeFiles/mcp.dir/src/mcp_jsonrpc.c.o"
+},
+{
+  "directory": "/home/nickchel/webdev/c_mcp_server/build",
+  "command": "/usr/bin/clang  -I/home/nickchel/webdev/c_mcp_server/include -I/home/nickchel/webdev/c_mcp_server/src -I/home/nickchel/webdev/c_mcp_server/third_party/cJSON -g -std=c23 -fPIC -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -Wstrict-prototypes -Wmissing-prototypes -Wimplicit-fallthrough -Wformat=2 -Wnull-dereference -Wdouble-promotion -Werror -fstack-protector-strong -D_FORTIFY_SOURCE=2 -o CMakeFiles/mcp.dir/src/mcp_stdio.c.o -c /home/nickchel/webdev/c_mcp_server/src/mcp_stdio.c",
+  "file": "/home/nickchel/webdev/c_mcp_server/src/mcp_stdio.c",
+  "output": "CMakeFiles/mcp.dir/src/mcp_stdio.c.o"
+},
+{
+  "directory": "/home/nickchel/webdev/c_mcp_server/build",
+  "command": "/usr/bin/clang  -I/home/nickchel/webdev/c_mcp_server/include -I/home/nickchel/webdev/c_mcp_server/src -I/home/nickchel/webdev/c_mcp_server/third_party/cJSON -g -std=c23 -fPIC -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -Wstrict-prototypes -Wmissing-prototypes -Wimplicit-fallthrough -Wformat=2 -Wnull-dereference -Wdouble-promotion -Werror -fstack-protector-strong -D_FORTIFY_SOURCE=2 -o CMakeFiles/mcp.dir/src/mcp_http.c.o -c /home/nickchel/webdev/c_mcp_server/src/mcp_http.c",
+  "file": "/home/nickchel/webdev/c_mcp_server/src/mcp_http.c",
+  "output": "CMakeFiles/mcp.dir/src/mcp_http.c.o"
+},
+{
+  "directory": "/home/nickchel/webdev/c_mcp_server/build",
+  "command": "/usr/bin/clang  -I/home/nickchel/webdev/c_mcp_server/include -I/home/nickchel/webdev/c_mcp_server/src -I/home/nickchel/webdev/c_mcp_server/third_party/cJSON -g -std=c23 -fPIC -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -Wstrict-prototypes -Wmissing-prototypes -Wimplicit-fallthrough -Wformat=2 -Wnull-dereference -Wdouble-promotion -Werror -fstack-protector-strong -D_FORTIFY_SOURCE=2 -o CMakeFiles/mcp.dir/src/mcp_log.c.o -c /home/nickchel/webdev/c_mcp_server/src/mcp_log.c",
+  "file": "/home/nickchel/webdev/c_mcp_server/src/mcp_log.c",
+  "output": "CMakeFiles/mcp.dir/src/mcp_log.c.o"
+},
+{
+  "directory": "/home/nickchel/webdev/c_mcp_server/build",
+  "command": "/usr/bin/clang  -I/home/nickchel/webdev/c_mcp_server/include -I/home/nickchel/webdev/c_mcp_server/third_party/cJSON -g -std=c23 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -Wstrict-prototypes -Wmissing-prototypes -Wimplicit-fallthrough -Wformat=2 -Wnull-dereference -Wdouble-promotion -Werror -fstack-protector-strong -D_FORTIFY_SOURCE=2 -o CMakeFiles/echo_server.dir/examples/echo_server/main.c.o -c /home/nickchel/webdev/c_mcp_server/examples/echo_server/main.c",
+  "file": "/home/nickchel/webdev/c_mcp_server/examples/echo_server/main.c",
+  "output": "CMakeFiles/echo_server.dir/examples/echo_server/main.c.o"
+},
+{
+  "directory": "/home/nickchel/webdev/c_mcp_server/build",
+  "command": "/usr/bin/clang  -I/home/nickchel/webdev/c_mcp_server/include -I/home/nickchel/webdev/c_mcp_server/third_party/cJSON -g -std=c23 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -Wstrict-prototypes -Wmissing-prototypes -Wimplicit-fallthrough -Wformat=2 -Wnull-dereference -Wdouble-promotion -Werror -fstack-protector-strong -D_FORTIFY_SOURCE=2 -o CMakeFiles/demo_server.dir/examples/demo_server/main.c.o -c /home/nickchel/webdev/c_mcp_server/examples/demo_server/main.c",
+  "file": "/home/nickchel/webdev/c_mcp_server/examples/demo_server/main.c",
+  "output": "CMakeFiles/demo_server.dir/examples/demo_server/main.c.o"
+},
+{
+  "directory": "/home/nickchel/webdev/c_mcp_server/build",
+  "command": "/usr/bin/clang  -I/home/nickchel/webdev/c_mcp_server/include -I/home/nickchel/webdev/c_mcp_server/third_party/cJSON -g -std=c23 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -Wstrict-prototypes -Wmissing-prototypes -Wimplicit-fallthrough -Wformat=2 -Wnull-dereference -Wdouble-promotion -Werror -fstack-protector-strong -D_FORTIFY_SOURCE=2 -o CMakeFiles/http_demo.dir/examples/http_demo/main.c.o -c /home/nickchel/webdev/c_mcp_server/examples/http_demo/main.c",
+  "file": "/home/nickchel/webdev/c_mcp_server/examples/http_demo/main.c",
+  "output": "CMakeFiles/http_demo.dir/examples/http_demo/main.c.o"
+},
+{
+  "directory": "/home/nickchel/webdev/c_mcp_server/build",
+  "command": "/usr/bin/clang  -I/home/nickchel/webdev/c_mcp_server/include -I/home/nickchel/webdev/c_mcp_server/third_party/cJSON -g -std=c23 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -Wstrict-prototypes -Wmissing-prototypes -Wimplicit-fallthrough -Wformat=2 -Wnull-dereference -Wdouble-promotion -Werror -fstack-protector-strong -D_FORTIFY_SOURCE=2 -o CMakeFiles/test_basic.dir/tests/test_basic.c.o -c /home/nickchel/webdev/c_mcp_server/tests/test_basic.c",
+  "file": "/home/nickchel/webdev/c_mcp_server/tests/test_basic.c",
+  "output": "CMakeFiles/test_basic.dir/tests/test_basic.c.o"
+},
+{
+  "directory": "/home/nickchel/webdev/c_mcp_server/build",
+  "command": "/usr/bin/clang  -I/home/nickchel/webdev/c_mcp_server/include -I/home/nickchel/webdev/c_mcp_server/third_party/cJSON -g -std=c23 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -Wstrict-prototypes -Wmissing-prototypes -Wimplicit-fallthrough -Wformat=2 -Wnull-dereference -Wdouble-promotion -Werror -fstack-protector-strong -D_FORTIFY_SOURCE=2 -o CMakeFiles/test_http.dir/tests/test_http.c.o -c /home/nickchel/webdev/c_mcp_server/tests/test_http.c",
+  "file": "/home/nickchel/webdev/c_mcp_server/tests/test_http.c",
+  "output": "CMakeFiles/test_http.dir/tests/test_http.c.o"
+}
+]

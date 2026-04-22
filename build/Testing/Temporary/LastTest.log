@@ -1,0 +1,60 @@
+Start testing: Apr 21 10:41 PDT
+----------------------------------------------------------
+1/2 Testing: basic
+1/2 Test: basic
+Command: "/home/nickchel/webdev/c_mcp_server/build/test_basic"
+Directory: /home/nickchel/webdev/c_mcp_server/build
+"basic" start time: Apr 21 10:41 PDT
+Output:
+----------------------------------------------------------
+[2026-04-21T17:41:04Z] [warn] unknown notification: notifications/whatever
+ok initialize_flow
+ok ping
+ok tools_list_and_call
+ok tool_silent_fail_synthesises_error
+ok tools_call_bad_params
+ok notification_no_response
+ok uninitialized_rejected
+ok invalid_jsonrpc_version
+ok method_not_found
+ok duplicate_tool
+ok id_preservation
+ok multiple_text_items
+all basic tests passed
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"basic" end time: Apr 21 10:41 PDT
+"basic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: http
+2/2 Test: http
+Command: "/home/nickchel/webdev/c_mcp_server/build/test_http"
+Directory: /home/nickchel/webdev/c_mcp_server/build
+"http" start time: Apr 21 10:41 PDT
+Output:
+----------------------------------------------------------
+ok http_root_page
+ok http_options_preflight
+ok http_not_found
+ok http_post_json_response
+ok http_post_sse_response
+ok http_post_notification_202
+ok http_post_parse_error
+ok http_post_missing_length
+ok http_get_mcp_requires_sse_accept
+ok http_get_mcp_sse_stream
+ok http_legacy_message_unknown_session
+ok http_legacy_sse_roundtrip
+all HTTP tests passed
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"http" end time: Apr 21 10:41 PDT
+"http" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 21 10:41 PDT

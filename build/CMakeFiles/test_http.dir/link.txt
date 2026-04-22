@@ -1,0 +1,1 @@
+/usr/bin/clang -g -Xlinker --dependency-file=CMakeFiles/test_http.dir/link.d CMakeFiles/test_http.dir/tests/test_http.c.o -o test_http  libmcp.a libcjson.a

@@ -1,0 +1,10 @@
+/home/nickchel/webdev/c_mcp_server/build/CMakeFiles/cjson.dir
+/home/nickchel/webdev/c_mcp_server/build/CMakeFiles/mcp.dir
+/home/nickchel/webdev/c_mcp_server/build/CMakeFiles/echo_server.dir
+/home/nickchel/webdev/c_mcp_server/build/CMakeFiles/demo_server.dir
+/home/nickchel/webdev/c_mcp_server/build/CMakeFiles/http_demo.dir
+/home/nickchel/webdev/c_mcp_server/build/CMakeFiles/test_basic.dir
+/home/nickchel/webdev/c_mcp_server/build/CMakeFiles/test_http.dir
+/home/nickchel/webdev/c_mcp_server/build/CMakeFiles/test.dir
+/home/nickchel/webdev/c_mcp_server/build/CMakeFiles/edit_cache.dir
+/home/nickchel/webdev/c_mcp_server/build/CMakeFiles/rebuild_cache.dir
